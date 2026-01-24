@@ -44,7 +44,7 @@ Each delivery loop is defined as a round trip between:
 ### Costs
 
 * Operating cost: $1.20 per mile
-* Location handling fee (per stop):
+* Location handling fee (Charge location handling fee only at the Delivery Zone, No fee charged at Fulfillment Centers):
   * Medium: $50
   * Large: $80
 * Delay cost (outbound only):
