@@ -6,7 +6,7 @@ This project simulates a business decision-making data challenge similar to the 
 
 The objective is to identify the most attractive delivery loops (Fulfillment Center ↔ Delivery Zone round trips) to launch first, balancing profitability, demand, and on-time performance, while considering realistic operational costs.
 
-The analysis uses 1Q2025 data and applies Python-based data analysis to recommend five delivery loops worth investing in.
+I have done my analysis to a Jupyter notebook and attached that with this project. The analysis uses 1Q2025 data and applies Python-based data analysis to recommend five delivery loops worth investing in.
 
 ## 🏢 Business Context
 
