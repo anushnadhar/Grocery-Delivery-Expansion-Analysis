@@ -88,3 +88,7 @@ Each delivery loop is defined as a round trip between:
 3. Which 5 delivery loops should the company launch first and why?
 4. How many round trips are needed to break even on the $120,000 van investment?
 5. What KPIs should be tracked post-launch to measure success?
+
+## 💡 Future Scope
+
+This analysis can be further strengthened in several ways. Future work could include experimenting with alternative scoring scales and weighting methods to improve route ranking accuracy. Additional variables such as delivery time windows, traffic patterns, customer density, operational costs, and including cancelled trips, can also be incorporated to evaluate route quality more comprehensively. We can further compare different modeling approaches to identify which method most reliably predicts the best routes and supports scalable decision-making.
