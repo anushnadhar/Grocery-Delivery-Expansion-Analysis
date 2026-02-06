@@ -87,7 +87,6 @@ Each delivery loop is defined as a round trip between:
 2. Which delivery loops are the most profitable (excluding upfront costs)?
 3. Which 5 delivery loops should the company launch first and why?
 4. How many round trips are needed to break even on the $120,000 van investment?
-5. What KPIs should be tracked post-launch to measure success?
 
 ## 💡 Future Scope
 
