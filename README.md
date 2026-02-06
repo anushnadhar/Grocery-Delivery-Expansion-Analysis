@@ -18,7 +18,7 @@ The company plans to expand by launching 5 new delivery loops, each operated by 
 Each delivery loop is defined as a round trip between:
 * A Fulfillment Center (FC) and
 * A Delivery Zone (Z)
-(Direction does not matter — FC03–Z12 is the same as Z12–FC03.)
+(Direction does not matter FC03–Z12 is the same as Z12–FC03.)
 
 ## 📊 Datasets Used
 1. Deliveries Dataset (Deliveries_1Q2025.csv)
